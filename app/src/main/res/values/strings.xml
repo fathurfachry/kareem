@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">kareem</string>
+    <string name="salam">Assalamualaikum</string>
+    <string name="date">17 Rabiul Awwal 1443H</string>
+    <string name="location">Karawang, Indonesia</string>
+    <string name="time">11.30</string>
+    <string name="time_before_Adzan">10 menit sebelum Dzuhur</string>
+    <string name="kisah_islami_title">Kisah Islami</string>
+    <string name="menu_lihat_semua">Lihat semua</string>
+    <string name="menu_kisah_islami_title_1">Manusia Tertampan</string>
+    <string name="menu_kisah_islami_desc_1">Tertampan yang pernah ada</string>
+    <string name="menu_kisah_islami_desc_2">Perang pertama umat islam</string>
+    <string name="menu_kisah_islami_title_2">Perang Badar</string>
+    <string name="menu_kisah_islami_title_3">Fathu Mekkah</string>
+    <string name="menu_kisah_islami_desc_3">Pembebasan Kota Mekkah</string>
+    <string name="title_activity_doa">Kumpulan Doa</string>
+    <string name="desc_activity_doa">Kumpulan doa sehari-hari yang seorang muslim baca</string>
+    <string name="title_activity_dzikir">Kumpulan Dzikir</string>
+    <string name="desc_activity_dzikir">Kumpulan dzikir sehari-hari yang seorang muslim baca</string>
+    <string name="title_activity_adab">Kumpulan Adab</string>
+    <string name="desc_activity_adab">Kumpulan adab sehari-hari yang seorang muslim biasa lakukan</string>
+    <string name="title_activity_sunnah">Kumpulan Sunnah</string>
+    <string name="desc_activity_sunnah">Kumpulan sunnah sehari-hari yang seorang muslim biasa lakukan</string>
+</resources>
