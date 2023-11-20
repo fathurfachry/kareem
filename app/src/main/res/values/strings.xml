@@ -21,4 +21,5 @@
     <string name="desc_activity_adab">Kumpulan adab sehari-hari yang seorang muslim biasa lakukan</string>
     <string name="title_activity_sunnah">Kumpulan Sunnah</string>
     <string name="desc_activity_sunnah">Kumpulan sunnah sehari-hari yang seorang muslim biasa lakukan</string>
+    <string name="search_hint">Search Your News</string>
 </resources>
